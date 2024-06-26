@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning, NLP.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any open project.
-- 📫 How to reach me email: ajazkhanbansi@gmail.com  Mobile: +966538556431
+- 📫 How to reach me email: ajazkhanbansi@gmail.com  Mobile: +966510647672
 
 <!---
 Ajazahmad94/Ajazahmad94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
