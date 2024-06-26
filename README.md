@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ajazahmad94
-- 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning, NLP.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Gen-AI, State of the Art Models, Data Analysis, Machine Learning, Deep Learning, NLP.
 - 💞️ I’m looking to collaborate on any open project.
 - 📫 How to reach me email: ajazkhanbansi@gmail.com  Mobile: +966510647672
 
